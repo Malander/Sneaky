@@ -3,7 +3,11 @@
   "version": "0.0.1",
   "description": "",
   "main": "gulpfile.js",
-  "dependencies": {},
+  "author": "@malander22",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/malander/sneaky.git"
+  },
   "devDependencies": {
     "browser-sync": "^2.9.1",
     "del": "^2.0.1",
