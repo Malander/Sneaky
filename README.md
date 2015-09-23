@@ -1,2 +1,2 @@
 # Sneaky
-Frontend workflow using gulp
+Frontend environment using gulp
