@@ -1,0 +1,15 @@
+ # humanstxt.org
+ # The human responsible & technology colophon
+
+ #TEAM
+
+ 	Michele Mari -- Web Designer and Developer
+
+ #THANKS
+
+  	Officine06 -- Design Studio -- www.officine06.com
+
+ #TECHNOLOGY COLOPHON
+
+ 	HTML5, CSS3, JS, PHP
+ 	jQuery, Bootstrap 
